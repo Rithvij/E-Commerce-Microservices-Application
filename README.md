@@ -47,5 +47,11 @@ This is a complete, production-grade e-commerce microservices application built 
 ---
 
 ## App Preview
-
+**Home Page**
  ![App Preview](./Home.png)
+
+ **Shopping Cart Page**
+ ![App Preview](./shoppingcart.png)
+
+  **Orders Page**
+ ![App Preview](./order.png)
