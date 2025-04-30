@@ -1,6 +1,6 @@
 # E-Commerce Microservices Application
 
-This is a complete, production-grade e-commerce microservices application built using **.NET 8**. It features modular microservices, secure authentication using **.NET Identity**, and robust inter-service communication using **Azure Service Bus**. The application is developed with **clean architecture** principles and designed to scale efficiently with best practices in microservices development.
+This is a complete, production-grade e-commerce microservices application built using **.NET 8**. It features modular microservices, secure authentication using **.NET Identity**, and robust inter-service communication via **Ocelot API Gateway** using **Azure Service Bus**. The application is developed with **clean architecture** principles and designed to scale efficiently with best practices in microservices development.
 
 ---
 
