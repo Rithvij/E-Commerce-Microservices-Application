@@ -15,7 +15,7 @@ This is a complete, production-grade e-commerce microservices application built 
 - Swagger documentation for all APIs  
 - Email notification service  
 - Coupon/discount system  
-- Follows Clean Architecture and Repository Pattern  
+- Follows Clean Architecture and Repository Pattern
 
 ---
 
